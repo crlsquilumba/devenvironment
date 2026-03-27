@@ -5,6 +5,16 @@ metadata:
   description: Sin descripción
   annotations:
     github.com/project-slug: crlsquilumba/devenvironment
+    github.com/branch-count: "2"
+    github.com/has-gitflow: "false"
+    github.com/default-branch: "main"
+  links:
+    - url: https://github.com/crlsquilumba/devenvironment/tree/main
+      title: "✅ main — producción"
+      icon: github
+    - url: https://github.com/crlsquilumba/devenvironment/tree/development
+      title: "🌿 development"
+      icon: github
 spec:
   type: library
   lifecycle: experimental
